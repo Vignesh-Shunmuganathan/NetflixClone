@@ -2,12 +2,12 @@
 This code is to clone the landing page of Netflix using **HTML, CSS and JavaScript.**
 ## 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/3025d1ac-3e56-437c-bede-a7fbd4312c64)
-![image](https://user-images.githubusercontent.com/79099734/156505592-42d7e884-e72c-41b8-8efe-856d1aeaf4b1.png)
-![image](https://user-images.githubusercontent.com/79099734/156505619-e344eb2f-9298-4f76-8d59-d0f6a4f108dc.png)
-![image](https://user-images.githubusercontent.com/79099734/156505658-675daf0b-fe7d-4490-8d1c-ab030527ecf5.png)
-![image](https://user-images.githubusercontent.com/79099734/156505698-04ab760c-9ef1-4da2-b921-4c3e65ef0789.png)
-![image](https://user-images.githubusercontent.com/79099734/156505771-6929b1f2-1aed-4da4-bb7a-092404589241.png)
-![image](https://user-images.githubusercontent.com/79099734/156505809-309a6824-5d85-4cc0-9ffd-95d66fb2cf5e.png)
+![image](https://github.com/user-attachments/assets/87da10c2-c427-46cd-8727-0729f70bac31)
+![image](https://github.com/user-attachments/assets/cb95f1a0-1f8d-4bd6-9d6c-3f1cdef1143a)
+![image](https://github.com/user-attachments/assets/e13a06a5-4da2-473b-b5da-59898edb4096)
+![image](https://github.com/user-attachments/assets/ae79191e-3217-4d77-ac35-4851c274895c)
+![image](https://github.com/user-attachments/assets/91f8a164-dd8e-4633-870e-668165428269)
+![image](https://github.com/user-attachments/assets/a9a69a39-9d02-43e4-95dd-9e7553b3c2d1)
 
 
 ## Watch the Live [Demo](https://vignesh-shunmuganathan.github.io/NetflixClone/)
