@@ -13,9 +13,6 @@ This code is to clone the landing page of Netflix using **HTML, CSS and JavaScri
 ## Watch the Live [Demo](https://vignesh-shunmuganathan.github.io/NetflixClone/)
 
 
-## [Watch the video tutorial here](https://youtu.be/wpH0VR0hYTU)
-
-
 # 💥 How to Contribute
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/Vignesh-Shunmuganathan/NetflixClone/pulls)
